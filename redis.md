@@ -1,5 +1,5 @@
 # 개요
-본 자료는 Redis의 기본 Architecture 및 library 기능을 분석하고, LENA의 Zodiac Server에서 새롭게 개발할 Cache lite library가 무엇인지 파악하기 위해 작성되었습니다.
+본 자료는 Redis의 기본 Architecture 및 library 기능을 분석하기 위해 작성되었습니다.
 
 # Redis
 ## <strong>설명</strong>
